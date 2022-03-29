@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\HBT_NOTE2\Desktop\kiosk\kiosk\obj\Debug\
+C:\Users\HBT_NOTE2\Desktop\Kiosk_Foot\kiosk\obj\Debug\
 kiosk
 none
 false
 DEBUG;TRACE
-C:\Users\HBT_NOTE2\Desktop\kiosk\kiosk\App.xaml
-7187439872
+C:\Users\HBT_NOTE2\Desktop\Kiosk_Foot\kiosk\App.xaml
+7-673666315
 
-14-1160678422
-68112201231
+151493008392
+68-2112848203
 MainWindow.xaml;pages\Join.xaml;pages\LogIn.xaml;pages\Main.xaml;pages\Purchase.xaml;pages\Scan.xaml;pages\ScanResult.xaml;
 
-False
+True
 
